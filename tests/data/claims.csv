@@ -1,0 +1,3 @@
+id,memberId,amount,status,submittedAt
+CLM-3001,MBR-9901,218.75,approved,2025-11-12T10:04:00.000Z
+CLM-3002,MBR-5519,975.4,denied,2025-11-14T16:22:00.000Z

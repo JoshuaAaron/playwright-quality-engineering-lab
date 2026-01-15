@@ -1,0 +1,20 @@
+[
+  {
+    "name": "missing email",
+    "email": "",
+    "password": "Welcome123!",
+    "expectedError": "Email is required."
+  },
+  {
+    "name": "invalid email format",
+    "email": "ava@paretohealth",
+    "password": "Welcome123!",
+    "expectedError": "Enter a valid email address."
+  },
+  {
+    "name": "missing password",
+    "email": "ava@paretohealth.com",
+    "password": "",
+    "expectedError": "Password is required."
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "CLM-2001",
+    "memberId": "",
+    "amount": -42,
+    "status": "approved",
+    "submittedAt": "2025-12-04T09:12:00.000Z"
+  },
+  {
+    "id": "CLM-2001",
+    "memberId": "MBR-0099",
+    "amount": 0,
+    "status": "processing",
+    "submittedAt": "invalid-date"
+  }
+]
