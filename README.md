@@ -1,6 +1,6 @@
 # QA Automation Practice Login
 
-[![CI](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml/badge.svg)](https://github.com/<OWNER>/<REPO>/actions/workflows/ci.yml)
+[![CI](https://github.com/JoshuaAaron/playwright-quality-engineering-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/JoshuaAaron/playwright-quality-engineering-lab/actions/workflows/ci.yml)
 
 This project is a focused practice app for QA automation interviews. It includes a React + TypeScript login screen and Playwright tests that cover:
 
