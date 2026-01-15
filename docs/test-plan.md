@@ -25,7 +25,7 @@ Validate the login experience, data pipelines, and API contracts with reusable a
 - **Playwright API tests** with a mocked local server
 - **Data validation tests** for JSON + CSV pipelines
 - **Metrics checks** for pass rate and defect leakage thresholds
-- **Pre-run environment validation** to ensure demo credentials are present locally
+- Optional: run `node scripts/validate-env.mjs` to verify demo credentials locally
 
 ## Tooling
 - React + TypeScript UI
